@@ -7,6 +7,8 @@ TYPES OF STEGANOGRAPHY
 2. STEGANOGRAPHY IN AUDIO
 3. STEGANOGRAPHY IN VIDEO
 
+You can use this for your college and University Project Submission.
+
 
 Read Blog - https://college-projects-help.blogspot.com/2021/02/steganography.html
 
