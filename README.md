@@ -8,6 +8,7 @@ TYPES OF STEGANOGRAPHY
 3. STEGANOGRAPHY IN VIDEO
 
 
+Read Blog - https://college-projects-help.blogspot.com/2021/02/steganography.html
 
 __________________________________________________________________________________________________________________________________________________________________________
 
